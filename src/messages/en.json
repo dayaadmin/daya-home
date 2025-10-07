@@ -1,0 +1,212 @@
+{
+	"NotFoundPage": {
+		"title": "Page Not Found",
+		"description": "The page you are looking for does not exist.",
+		"homeLink": "Return to Home",
+		"aboutLink": "Learn More About Us",
+		"contactLink": "Contact Us"
+	},
+	"breadcrumb": {
+		"home": "Home",
+		"about": "About Us",
+		"contact": "Contact Us",
+		"admin": "Admin",
+		"dashboard": "Dashboard",
+		"settings": "Settings"
+	},
+	"Header": {
+		"logo": "DAYA Devraha",
+		"links": {
+			"home": "Home",
+			"about": "About",
+			"services": "Services",
+			"contact": "Contact",
+			"shop": "Shop"
+		},
+		"modeToggle": {
+			"light": "Light",
+			"dark": "Dark",
+			"system": "System"
+		}
+	},
+	"Footer": {
+		"logo": "DAYA Devraha",
+		"description": "DAYA (Devraha Academy of Yoga and Ayurveda) is dedicated to preserving and imparting ancient Vedic wisdom, guided by the profound legacy of Shri Devraha Baba",
+		"sections": {
+			"company": {
+				"title": "Our Other Websites",
+				"links": {
+					"dayaHome": "DAYA Home",
+					"kamdhenuseva": "Kamdhenuseva",
+					"shop": "DAYA Shop"
+				}
+			},
+			"resources": {
+				"title": "Links",
+				"links": {
+					"home": "Home",
+					"aboutUs": "About Us",
+					"philosophy": "Our Philosophy",
+					"origins": "Our Origins",
+					"donate": "Donate",
+					"contactUs": "Contact Us",
+					"faq": "FAQs"
+				}
+			},
+			"legal": {
+				"title": "Legal",
+				"links": {
+					"privacyPolicy": "Privacy Policy",
+					"termsOfService": "Terms of Service",
+					"cookiePolicy": "Cookie Policy"
+				}
+			}
+		},
+		"socials": {
+			"title": "Follow Us",
+			"github": "GitHub",
+			"linkedin": "LinkedIn",
+			"instagram": "Instagram",
+			"discord": "Discord",
+			"x": "X",
+			"notion": "Notion"
+		},
+		"allRightsReserved": "All rights reserved.",
+		"designedAndDevelopedBy": "Designed and developed by",
+		"madeBy": {
+			"aryanGulati": "Aryan Gulati",
+			"neelanjanMukherji": "Neelanjan Mukherji"
+		}
+	},
+	"HomePage": {
+		"heroSection": {
+			"carousel": {
+				"1": {
+					"image": "/assets/home/hero/image-1.jpg",
+					"altText": "Support Cow Welfare",
+					"heading": "My name is Gayatri Gaumata",
+					"paragraph": "I am a happy cow from Shri Devraha Baba Gaushala. I eagerly await you, my dear Guardian, to shower you with my love, divine blessings, and bring happiness and prosperity into your life!",
+					"buttonLink": "/donate/cows"
+				},
+				"2": {
+					"image": "/assets/home/hero/image-2.jpg",
+					"altText": "Save & Protect Cows",
+					"heading": "Open your heart to embrace the Divine",
+					"paragraph": "Help care for the cows of our Gaushala and provide them with everything they need for their well-being.",
+					"buttonLink": "/donate"
+				},
+				"3": {
+					"image": "/assets/home/hero/image-3.jpg",
+					"altText": "Discover Our Products",
+					"heading": "Try Panchagavya",
+					"paragraph": "A truly healing, 100% natural medicine and products straight from the sacred Gaumatas of Shri Devaraha Baba Ashram.",
+					"buttonLink": "/coming-soon"
+				},
+				"4": {
+					"image": "/assets/home/hero/image-4.jpg",
+					"altText": "Join Our Cause",
+					"heading": "Sacred Gaumata",
+					"paragraph": "Caring for the cow is the true path to the well-being of society and spiritual fulfillment.",
+					"buttonLink": "/about"
+				},
+				"buttonText": "Learn More"
+			}
+		},
+		"aboutAshram": {
+			"heading": "About Sri Devraha Baba Ashram",
+			"subtitle": "Brahm Rishi Shri Shri Dev Das Ji Maharaj",
+			"description": "Here, away from the noisy streets, in the gardens of Vrindavan, amazing games of Radha and Krishna take place at all times. Krishna's friends, the cows, find shelter and love in this blessed place.\n\nIn the ancient city of Vrindavan, on the banks of the sacred Yamuna River, there is an Ashram of the world-famous sage Sri Devraha Baba, one of the greatest siddha yogis of India in the parampara of Sri Ramanuja Acharya. People of all castes and classes came to him to pay obeisances from different parts of India and many countries of the world. It was attended by Indian Prime Minister Indira Gandhi and her son Rajiv, the first President of the USSR Mikhail Gorbachev, as well as other politicians, saints, yogis, priests, rich and poor—all came for the blessing of Sri Devraha Baba—the true spiritual incarnation of love.\n\nToday, the ashram is run by the successor of Sri Devraha Baba, Mahatma Sri Devadas Maharaj, following the instructions of the great sage."
+		},
+		"adoptACowCTA": {
+			"headlinePart1": "Make a difference today. ",
+			"headlinePart2": "Adopt a COW!",
+			"description": "Join us in our mission to provide a loving home and care for cows in Shri Devraha Baba Gaushala. Your guardianship can make a significant impact on their lives and help us provide them with proper nourishment and well-being.",
+			"buttonText": "Adopt Now"
+		},
+		"cowCarousel": {
+			"heading": "Meet Our Sacred Cows",
+			"description": "Each cow in our ashram holds a special place in our hearts. Get to know them!"
+		},
+		"faq": {
+			"title": "Frequently Asked Questions",
+			"description": "Find answers to common queries below.",
+			"questions": {
+				"1": {
+					"question": "What is DAYA Academy?",
+					"answer": "DAYA (Devraha Academy of Yoga and Ayurveda) is a spiritual and educational institution dedicated to preserving and sharing the ancient wisdom of the Vedas. Rooted in the Vaishnava tradition, it is a place where traditional yoga, Ayurveda, Vedic astrology, rituals, arts, and ecological practices come together to guide individuals on their spiritual and personal growth journeys."
+				},
+				"2": {
+					"question": "Where is DAYA Academy located?",
+					"answer": "Our Ashram is situated in Noida, India, within ‘Knowledge Park’—a place that embodies the pursuit of higher wisdom and spiritual enlightenment."
+				},
+				"3": {
+					"question": "Who can join DAYA Academy?",
+					"answer": "Anyone with a sincere desire to learn and immerse themselves in Vedic wisdom can join. We welcome seekers from all walks of life, regardless of background, experience, or prior knowledge."
+				},
+				"4": {
+					"question": "How can I contact DAYA Academy?",
+					"answer": "You can reach us at:\n📍 Address: Plot No S-6, Sector - Knowledge Park - 3, Greater Noida, GB Nagar, UP, 201310\n📩 Email: ?\n📞 Phone: ?\n📸 Instagram: @dayadevraha"
+				}
+			},
+			"moreFAQs": "View More FAQs"
+		}
+	},
+	"ContactPage": {
+		"heading": "Contact Us",
+		"description": "Feel free to reach out to us for any inquiries or assistance.",
+		"callUs": "Call Us",
+		"emailUs": "Email Us",
+		"whatsappUs": "WhatsApp Us",
+		"address": "Shri Devraha Baba Ashram, Vrindavan, Yamuna Tat, Post-Dangoli, (Tahshil-Mant), Mathura, Uttar Pradesh - 281202",
+		"faq": {
+			"title": "Frequently Asked Questions",
+			"description": "Find answers to the most common questions about our platform and services.",
+			"questions": {
+				"1": {
+					"question": "What is DAYA Academy?",
+					"answer": "DAYA (Devraha Academy of Yoga and Ayurveda) is a spiritual and educational institution dedicated to preserving and sharing the ancient wisdom of the Vedas. Rooted in the Vaishnava tradition, it is a place where traditional yoga, Ayurveda, Vedic astrology, rituals, arts, and ecological practices come together to guide individuals on their spiritual and personal growth journeys."
+				},
+				"2": {
+					"question": "Where is DAYA Academy located?",
+					"answer": "Our Ashram is situated in Noida, India, within ‘Knowledge Park’—a place that embodies the pursuit of higher wisdom and spiritual enlightenment."
+				},
+				"3": {
+					"question": "Who can join DAYA Academy?",
+					"answer": "Anyone with a sincere desire to learn and immerse themselves in Vedic wisdom can join. We welcome seekers from all walks of life, regardless of background, experience, or prior knowledge."
+				},
+				"4": {
+					"question": "How can I contact DAYA Academy?",
+					"answer": "You can reach us at:\n📍 Address: Plot No S-6, Sector - Knowledge Park - 3, Greater Noida, GB Nagar, UP, 201310\n📩 Email: ?\n📞 Phone: ?\n📸 Instagram: @dayadevraha"
+				},
+				"5": {
+					"question": "What is the significance of the Shri Devraha Baba Ashram?",
+					"answer": "The Ashram is a sacred sanctuary where divine wisdom and selfless service merge. It follows the teachings of Shri Devraha Baba and preserves the unbroken lineage of the Ramanuja Parampara."
+				},
+				"6": {
+					"question": "What does ‘Guru Parampara’ mean?",
+					"answer": "It refers to the sacred lineage of teachers who pass down spiritual knowledge from one generation to the next, ensuring its purity and authenticity."
+				},
+				"7": {
+					"question": "Why is cow protection important in Vedic culture?",
+					"answer": "In Vedic tradition, cows are considered sacred beings that embody divine energy. Caring for cows is seen as an act of selfless service that nurtures the entire universe."
+				},
+				"8": {
+					"question": "Can I contribute to the Kamdhenu Seva program?",
+					"answer": "Yes! You can support the initiative by sponsoring cow care, visiting the Goshala (cow sanctuary), or participating in seva (selfless service)."
+				},
+				"9": {
+					"question": "Can I visit the Ashram for a retreat or spiritual stay?",
+					"answer": "Yes! We offer retreats and immersive programs where visitors can experience the teachings firsthand, participate in seva, and connect with the spiritual community."
+				},
+				"10": {
+					"question": "Is there a fee to join the Academy?",
+					"answer": "Some courses and consultations may have fees, while others are offered on a donation basis. We believe in making spiritual wisdom accessible to all."
+				},
+				"11": {
+					"question": "How can I support the mission of DAYA Academy?",
+					"answer": "You can support us by participating in programs, volunteering, donating, or spreading awareness about our work. Every contribution helps preserve and share this sacred knowledge."
+				}
+			}
+		}
+	}
+}
