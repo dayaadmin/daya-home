@@ -57,7 +57,3 @@ yarn start
 ## Contributing
 
 Feel free to open issues or submit pull requests.
-
-## License
-
-MIT © [Your Name or Organization]
